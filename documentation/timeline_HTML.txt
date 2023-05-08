@@ -1,0 +1,83 @@
+<section class="timeline">
+<div class="date">
+<div class="section-divider"></div>
+<h2>Feb 13 <i>to</i> Feb 17</h2>
+<ul>
+<li>Created and assigned team roles.</li>
+<li>Group decision to focus on the books not the newspaper.</li>
+<ul>
+<li>Finalize the Sherlock Holmes books.</li>
+	</ul>
+<li>Created a list for things to schemas.</li>
+<li>Started to create schemas.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>Feb 27 <i>to</i> Mar 3</h2>
+<ul>
+<li>Created a total character list.</li>
+<li>Started to plan layout of the website.</li>
+<li>Finish basic markup for Study in Scarlet.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>Mar 6 <i>to</i> Mar 10</h2>
+<ul>
+<li>Finish markup for Adventures of Sherlock Holmes.</li>
+<li>Started to construct the webpage dealing with the nav bar.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>Mar 13 <i>to</i> Mar 17</h2>
+<ul>
+<li>Design of website improved.</li>
+<li>Schemes were tweaked to work with additional information.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>Mar 20 <i>to</i> Mar 23</h2>
+<ul>
+<li>Review of XML markup final check.</li>
+<li>More design of website.</li>
+<li>Started to sketch style of analysis page and graph.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>Mar 27 <i>to</i> Mar 31</h2>
+<ul>
+<li>Started a quality control check on all files.</li>
+<li>Addition to website design.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>April 3 <i>to</i> April 7</h2>
+<ul>
+<li>Designed were finalized for network graphs and other analysis graphs.</li>
+<li>Started to work on network graphs using Kumu.</li>
+<li>Webpage started to look complete.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>April 10 <i>to</i> April 14</h2>
+<ul>
+<li>Finish network graphs using Kumu.</li>
+<li>Incorporating Graphs into webpage.</li>
+</ul>
+</div>
+<div class="date">
+<div class="section-divider"></div>
+<h2>April 17 <i>to</i> April 21</h2>
+<ul>
+<li>Finished all analysis grapsh.</li>
+<li>Finalized design of webpage.</li>
+<li>Present webpage.</li>
+</ul>
+</div>
+</section>
