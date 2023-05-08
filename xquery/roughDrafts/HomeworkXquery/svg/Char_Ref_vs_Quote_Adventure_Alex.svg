@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     alignment-baseline="baseline"
+     viewport="0 0 1500 630"
+     width="100%"
+     height="100%">
+   <g>
+      <g>
+         <line x1="150"
+               y1="20"
+               x2="150"
+               y2="550"
+               stroke-width="3"
+               stroke="black"/>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="39">Sherlock Holmes</text>
+         <rect x="151.5"
+               y="25"
+               height="10"
+               width="604"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="757.5" y="33.5">604</text>
+         <rect x="151.5"
+               y="35"
+               height="10"
+               width="458"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="611.5" y="43.5">458</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="64">John Watson</text>
+         <rect x="151.5"
+               y="50"
+               height="10"
+               width="204"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="357.5" y="58.5">204</text>
+         <rect x="151.5"
+               y="60"
+               height="10"
+               width="83"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="236.5" y="68.5">83</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="89">Count Von Kramm</text>
+         <rect x="151.5"
+               y="75"
+               height="10"
+               width="8"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="161.5" y="83.5">8</text>
+         <rect x="151.5"
+               y="85"
+               height="10"
+               width="1"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="154.5" y="93.5">1</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="114">Wilhelm Ormstein</text>
+         <rect x="151.5"
+               y="100"
+               height="10"
+               width="51"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="204.5" y="108.5">51</text>
+         <rect x="151.5"
+               y="110"
+               height="10"
+               width="1"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="154.5" y="118.5">1</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="139">Irene Adler</text>
+         <rect x="151.5"
+               y="125"
+               height="10"
+               width="7"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="160.5" y="133.5">7</text>
+         <rect x="151.5"
+               y="135"
+               height="10"
+               width="17"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="170.5" y="143.5">17</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="164">Unknown</text>
+         <rect x="151.5"
+               y="150"
+               height="10"
+               width="47"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="200.5" y="158.5">47</text>
+         <rect x="151.5"
+               y="160"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="168.5">0</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="189">Jabez Wilson</text>
+         <rect x="151.5"
+               y="175"
+               height="10"
+               width="87"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="240.5" y="183.5">87</text>
+         <rect x="151.5"
+               y="185"
+               height="10"
+               width="21"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="174.5" y="193.5">21</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="214">Jones</text>
+         <rect x="151.5"
+               y="200"
+               height="10"
+               width="9"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="162.5" y="208.5">9</text>
+         <rect x="151.5"
+               y="210"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="218.5">0</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="239">Merryweather</text>
+         <rect x="151.5"
+               y="225"
+               height="10"
+               width="11"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="164.5" y="233.5">11</text>
+         <rect x="151.5"
+               y="235"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="243.5">0</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="264">John Clay</text>
+         <rect x="151.5"
+               y="250"
+               height="10"
+               width="8"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="161.5" y="258.5">8</text>
+         <rect x="151.5"
+               y="260"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="268.5">0</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="289">Mary Sutherland</text>
+         <rect x="151.5"
+               y="275"
+               height="10"
+               width="39"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="192.5" y="283.5">39</text>
+         <rect x="151.5"
+               y="285"
+               height="10"
+               width="11"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="164.5" y="293.5">11</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="314">James Windibank</text>
+         <rect x="151.5"
+               y="300"
+               height="10"
+               width="11"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="164.5" y="308.5">11</text>
+         <rect x="151.5"
+               y="310"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="318.5">0</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="339">Mary Watson</text>
+         <rect x="151.5"
+               y="325"
+               height="10"
+               width="8"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="161.5" y="333.5">8</text>
+         <rect x="151.5"
+               y="335"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="343.5">0</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="364">Lestrade</text>
+         <rect x="151.5"
+               y="350"
+               height="10"
+               width="31"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="184.5" y="358.5">31</text>
+         <rect x="151.5"
+               y="360"
+               height="10"
+               width="38"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="191.5" y="368.5">38</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="389">Alice Turner</text>
+         <rect x="151.5"
+               y="375"
+               height="10"
+               width="14"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="167.5" y="383.5">14</text>
+         <rect x="151.5"
+               y="385"
+               height="10"
+               width="4"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="157.5" y="393.5">4</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="414">John Turner</text>
+         <rect x="151.5"
+               y="400"
+               height="10"
+               width="21"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="174.5" y="408.5">21</text>
+         <rect x="151.5"
+               y="410"
+               height="10"
+               width="9"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="162.5" y="418.5">9</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="439">John Openshaw</text>
+         <rect x="151.5"
+               y="425"
+               height="10"
+               width="66"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="219.5" y="433.5">66</text>
+         <rect x="151.5"
+               y="435"
+               height="10"
+               width="13"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="166.5" y="443.5">13</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="464">Kate Whitney</text>
+         <rect x="151.5"
+               y="450"
+               height="10"
+               width="5"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="158.5" y="458.5">5</text>
+         <rect x="151.5"
+               y="460"
+               height="10"
+               width="4"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="157.5" y="468.5">4</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="489">Isa Whitney</text>
+         <rect x="151.5"
+               y="475"
+               height="10"
+               width="6"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="159.5" y="483.5">6</text>
+         <rect x="151.5"
+               y="485"
+               height="10"
+               width="1"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="154.5" y="493.5">1</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="514">Mrs St Clair</text>
+         <rect x="151.5"
+               y="500"
+               height="10"
+               width="41"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="194.5" y="508.5">41</text>
+         <rect x="151.5"
+               y="510"
+               height="10"
+               width="8"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="161.5" y="518.5">8</text>
+      </g>
+      <g>
+         <text text-anchor="end" x="143" y="539"/>
+         <rect x="151.5"
+               y="525"
+               height="10"
+               width="1468"
+               stroke="red"
+               stroke-width="0"
+               fill="red"/>
+         <text font-size="10px" text-anchor="start" x="1621.5" y="533.5">1468</text>
+         <rect x="151.5"
+               y="535"
+               height="10"
+               width="0"
+               stroke="green"
+               stroke-width="0"
+               fill="green"/>
+         <text font-size="10px" text-anchor="start" x="153.5" y="543.5">0</text>
+      </g>
+      <rect x="150" y="575" height="25" width="25" fill="red"/>
+      <text x="180" y="592">= Number of Quotes</text>
+      <rect x="150" y="605" height="25" width="25" fill="green"/>
+      <text x="180" y="622">= Number of References</text>
+   </g>
+</svg>

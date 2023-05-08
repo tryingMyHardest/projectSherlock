@@ -1,0 +1,3 @@
+<center>Sherlock Holmes is Cyan, John Watson is Black, Lestrade is Gray, Tobias Gregson is Green, </center>
+        <center>Lucy Ferrier is Orange, John Ferrier is Red, Jefferson Hope is Yellow, Enoch J Drebber is Pink, </center>
+        <center>Joseph Strangerson is Purple, Unknown/Not-named Characters are Lime, Other Characters are Blue</center>

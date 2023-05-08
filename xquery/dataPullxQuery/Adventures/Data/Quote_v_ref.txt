@@ -1,0 +1,336 @@
+	 	 1 - A SCANDAL IN BOHEMIA
+ Total Characters = 7 | Total Quotes = 278 | Total Refs = 72 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 145 	 # of Refs = 47 	 % of quotes = 52% 	 Total String Length = 19500 
+
+ 4 - Wilhelm Ormstein 
+ 	 # of Quotes = 59 	 # of Refs = 3 	 % of quotes = 21% 	 Total String Length = 3928 
+
+ 3 - John Watson 
+ 	 # of Quotes = 54 	 # of Refs = 6 	 % of quotes = 19% 	 Total String Length = 2457 
+
+ 2 - Irene Adler 
+ 	 # of Quotes = 7 	 # of Refs = 14 	 % of quotes = 3% 	 Total String Length = 1817 
+
+ 7 - Unknown 
+ 	 # of Quotes = 13 	 # of Refs = 0 	 % of quotes = 5% 	 Total String Length = 641 
+
+ 5 - Clotilde Lothman 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 6 - Mrs Turner 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 
+
+ 	 	 2 - THE RED-HEADED LEAGUE
+ Total Characters = 8 | Total Quotes = 244 | Total Refs = 114 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 102 	 # of Refs = 53 	 % of quotes = 42% 	 Total String Length = 15748 
+
+ 3 - Jabez Wilson 
+ 	 # of Quotes = 87 	 # of Refs = 21 	 % of quotes = 36% 	 Total String Length = 14982 
+
+ 2 - John Watson 
+ 	 # of Quotes = 24 	 # of Refs = 10 	 % of quotes = 10% 	 Total String Length = 978 
+
+ 6 - Merryweather 
+ 	 # of Quotes = 11 	 # of Refs = 12 	 % of quotes = 5% 	 Total String Length = 1137 
+
+ 5 - Jones 
+ 	 # of Quotes = 9 	 # of Refs = 10 	 % of quotes = 4% 	 Total String Length = 861 
+
+ 7 - John Clay 
+ 	 # of Quotes = 8 	 # of Refs = 7 	 % of quotes = 3% 	 Total String Length = 478 
+
+ 8 - Unknown 
+ 	 # of Quotes = 3 	 # of Refs = 0 	 % of quotes = 1% 	 Total String Length = 543 
+
+ 4 - Mary Sutherland 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 
+
+ 	 	 3 - A CASE OF IDENTITY
+ Total Characters = 7 | Total Quotes = 164 | Total Refs = 106 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 92 	 # of Refs = 46 	 % of quotes = 56% 	 Total String Length = 17368 
+
+ 3 - Mary Sutherland 
+ 	 # of Quotes = 39 	 # of Refs = 8 	 % of quotes = 24% 	 Total String Length = 8786 
+
+ 5 - James Windibank 
+ 	 # of Quotes = 11 	 # of Refs = 19 	 % of quotes = 7% 	 Total String Length = 1380 
+
+ 4 - Hosmer Angel 
+ 	 # of Quotes = 0 	 # of Refs = 27 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 6 - John Watson 
+ 	 # of Quotes = 20 	 # of Refs = 4 	 % of quotes = 12% 	 Total String Length = 1968 
+
+ 2 - Irene Adler 
+ 	 # of Quotes = 0 	 # of Refs = 2 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 7 - Unknown 
+ 	 # of Quotes = 2 	 # of Refs = 0 	 % of quotes = 1% 	 Total String Length = 531 
+
+ 
+
+ 	 	 4 - THE BOSCOMBE VALLEY MYSTERY
+ Total Characters = 9 | Total Quotes = 244 | Total Refs = 129 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 108 	 # of Refs = 47 	 % of quotes = 44% 	 Total String Length = 21657 
+
+ 7 - Lestrade 
+ 	 # of Quotes = 31 	 # of Refs = 24 	 % of quotes = 13% 	 Total String Length = 2291 
+
+ 2 - John Watson 
+ 	 # of Quotes = 38 	 # of Refs = 4 	 % of quotes = 16% 	 Total String Length = 1953 
+
+ 3 - John Turner 
+ 	 # of Quotes = 21 	 # of Refs = 13 	 % of quotes = 9% 	 Total String Length = 5678 
+
+ 9 - Unknown 
+ 	 # of Quotes = 29 	 # of Refs = 0 	 % of quotes = 12% 	 Total String Length = 2051 
+
+ 6 - Alice Turner 
+ 	 # of Quotes = 14 	 # of Refs = 10 	 % of quotes = 6% 	 Total String Length = 2002 
+
+ 4 - Charles McCarthy 
+ 	 # of Quotes = 0 	 # of Refs = 16 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 5 - James McCarthy 
+ 	 # of Quotes = 0 	 # of Refs = 15 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 8 - Mary Watson 
+ 	 # of Quotes = 3 	 # of Refs = 0 	 % of quotes = 1% 	 Total String Length = 227 
+
+ 
+
+ 	 	 5 - THE FIVE ORANGE PIPS
+ Total Characters = 3 | Total Quotes = 186 | Total Refs = 42 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 83 	 # of Refs = 25 	 % of quotes = 45% 	 Total String Length = 13639 
+
+ 2 - John Openshaw 
+ 	 # of Quotes = 66 	 # of Refs = 13 	 % of quotes = 35% 	 Total String Length = 14367 
+
+ 3 - John Watson 
+ 	 # of Quotes = 37 	 # of Refs = 4 	 % of quotes = 20% 	 Total String Length = 2524 
+
+ 
+
+ 	 	 6 - THE MAN WITH THE TWISTED LIP
+ Total Characters = 9 | Total Quotes = 236 | Total Refs = 91 
+
+ 4 - Sherlock Holmes 
+ 	 # of Quotes = 104 	 # of Refs = 29 	 % of quotes = 44% 	 Total String Length = 20639 
+
+ 3 - John Watson 
+ 	 # of Quotes = 32 	 # of Refs = 18 	 % of quotes = 14% 	 Total String Length = 1163 
+
+ 6 - Mrs St Clair 
+ 	 # of Quotes = 41 	 # of Refs = 8 	 % of quotes = 17% 	 Total String Length = 1878 
+
+ 5 - Neville St Clair 
+ 	 # of Quotes = 17 	 # of Refs = 20 	 % of quotes = 7% 	 Total String Length = 5401 
+
+ 7 - Bradstreet 
+ 	 # of Quotes = 25 	 # of Refs = 6 	 % of quotes = 11% 	 Total String Length = 1649 
+
+ 1 - Isa Whitney 
+ 	 # of Quotes = 6 	 # of Refs = 6 	 % of quotes = 3% 	 Total String Length = 512 
+
+ 2 - Kate Whitney 
+ 	 # of Quotes = 5 	 # of Refs = 4 	 % of quotes = 2% 	 Total String Length = 272 
+
+ 8 - Mary Watson 
+ 	 # of Quotes = 5 	 # of Refs = 0 	 % of quotes = 2% 	 Total String Length = 310 
+
+ 9 - Unknown 
+ 	 # of Quotes = 1 	 # of Refs = 0 	 % of quotes = 0% 	 Total String Length = 26 
+
+ 
+
+ 	 	 7 - THE ADVENTURE OF THE BLUE CARBUNCLE
+ Total Characters = 12 | Total Quotes = 235 | Total Refs = 101 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 115 	 # of Refs = 38 	 % of quotes = 49% 	 Total String Length = 21019 
+
+ 7 - James Ryder 
+ 	 # of Quotes = 40 	 # of Refs = 10 	 % of quotes = 17% 	 Total String Length = 5452 
+
+ 6 - John Watson 
+ 	 # of Quotes = 37 	 # of Refs = 9 	 % of quotes = 16% 	 Total String Length = 1947 
+
+ 10 - Breckinridge 
+ 	 # of Quotes = 24 	 # of Refs = 5 	 % of quotes = 10% 	 Total String Length = 1902 
+
+ 5 - Henry Baker 
+ 	 # of Quotes = 9 	 # of Refs = 13 	 % of quotes = 4% 	 Total String Length = 1100 
+
+ 4 - Peterson 
+ 	 # of Quotes = 6 	 # of Refs = 14 	 % of quotes = 3% 	 Total String Length = 249 
+
+ 11 - Mrs Oakshott 
+ 	 # of Quotes = 0 	 # of Refs = 6 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 12 - Unknown 
+ 	 # of Quotes = 4 	 # of Refs = 0 	 % of quotes = 2% 	 Total String Length = 150 
+
+ 8 - Catherine Cusack 
+ 	 # of Quotes = 0 	 # of Refs = 3 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 2 - Irene Adler 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 3 - Mary Sutherland 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 9 - Mrs Hudson 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 
+
+ 	 	 8 - THE ADVENTURE OF THE SPECKLED BAND
+ Total Characters = 6 | Total Quotes = 247 | Total Refs = 107 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 139 	 # of Refs = 56 	 % of quotes = 56% 	 Total String Length = 16744 
+
+ 5 - Helen Stoner 
+ 	 # of Quotes = 71 	 # of Refs = 18 	 % of quotes = 29% 	 Total String Length = 15100 
+
+ 3 - John Watson 
+ 	 # of Quotes = 24 	 # of Refs = 12 	 % of quotes = 10% 	 Total String Length = 1193 
+
+ 2 - Grimesby Roylott 
+ 	 # of Quotes = 10 	 # of Refs = 19 	 % of quotes = 4% 	 Total String Length = 600 
+
+ 6 - Unknown 
+ 	 # of Quotes = 3 	 # of Refs = 0 	 % of quotes = 1% 	 Total String Length = 235 
+
+ 4 - Mrs Hudson 
+ 	 # of Quotes = 0 	 # of Refs = 2 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 
+
+ 	 	 9 - THE ADVENTURE OF THE ENGINEER’S THUMB
+ Total Characters = 5 | Total Quotes = 191 | Total Refs = 27 
+
+ 2 - Victor Hatherley 
+ 	 # of Quotes = 119 	 # of Refs = 8 	 % of quotes = 62% 	 Total String Length = 29758 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 20 	 # of Refs = 14 	 % of quotes = 10% 	 Total String Length = 2181 
+
+ 5 - John Watson 
+ 	 # of Quotes = 25 	 # of Refs = 0 	 % of quotes = 13% 	 Total String Length = 1253 
+
+ 3 - Bradstreet 
+ 	 # of Quotes = 17 	 # of Refs = 5 	 % of quotes = 9% 	 Total String Length = 1188 
+
+ 4 - Unknown 
+ 	 # of Quotes = 10 	 # of Refs = 0 	 % of quotes = 5% 	 Total String Length = 663 
+
+ 
+
+ 	 	 10 - THE ADVENTURE OF THE NOBLE BACHELOR
+ Total Characters = 9 | Total Quotes = 255 | Total Refs = 119 
+
+ 2 - Sherlock Holmes 
+ 	 # of Quotes = 126 	 # of Refs = 34 	 % of quotes = 49% 	 Total String Length = 14135 
+
+ 1 - Robert St Simon 
+ 	 # of Quotes = 59 	 # of Refs = 34 	 % of quotes = 23% 	 Total String Length = 6457 
+
+ 3 - John Watson 
+ 	 # of Quotes = 31 	 # of Refs = 7 	 % of quotes = 12% 	 Total String Length = 6729 
+
+ 4 - Lestrade 
+ 	 # of Quotes = 24 	 # of Refs = 14 	 % of quotes = 9% 	 Total String Length = 2026 
+
+ 7 - Francis Moulton 
+ 	 # of Quotes = 4 	 # of Refs = 16 	 % of quotes = 2% 	 Total String Length = 250 
+
+ 8 - Mrs Moulton 
+ 	 # of Quotes = 10 	 # of Refs = 1 	 % of quotes = 4% 	 Total String Length = 6081 
+
+ 5 - Flora Millar 
+ 	 # of Quotes = 0 	 # of Refs = 8 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 6 - Lady St Simon 
+ 	 # of Quotes = 0 	 # of Refs = 5 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 9 - Unknown 
+ 	 # of Quotes = 1 	 # of Refs = 0 	 % of quotes = 0% 	 Total String Length = 22 
+
+ 
+
+ 	 	 11 - THE ADVENTURE OF THE BERYL CORONET
+ Total Characters = 6 | Total Quotes = 234 | Total Refs = 82 
+
+ 2 - Alexander Holder 
+ 	 # of Quotes = 120 	 # of Refs = 14 	 % of quotes = 51% 	 Total String Length = 21701 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 87 	 # of Refs = 28 	 % of quotes = 37% 	 Total String Length = 16752 
+
+ 5 - Mary Holder 
+ 	 # of Quotes = 18 	 # of Refs = 9 	 % of quotes = 8% 	 Total String Length = 1308 
+
+ 3 - Arthur Holder 
+ 	 # of Quotes = 0 	 # of Refs = 20 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 6 - John Watson 
+ 	 # of Quotes = 9 	 # of Refs = 2 	 % of quotes = 4% 	 Total String Length = 330 
+
+ 4 - George Burnwell 
+ 	 # of Quotes = 0 	 # of Refs = 9 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 
+
+ 	 	 12 - THE ADVENTURE OF THE COPPER BEECHES
+ Total Characters = 11 | Total Quotes = 225 | Total Refs = 128 
+
+ 4 - Violet Hunter 
+ 	 # of Quotes = 117 	 # of Refs = 22 	 % of quotes = 52% 	 Total String Length = 29611 
+
+ 1 - Sherlock Holmes 
+ 	 # of Quotes = 74 	 # of Refs = 43 	 % of quotes = 33% 	 Total String Length = 10858 
+
+ 2 - John Watson 
+ 	 # of Quotes = 21 	 # of Refs = 7 	 % of quotes = 9% 	 Total String Length = 1005 
+
+ 6 - Jephro Rucastle 
+ 	 # of Quotes = 0 	 # of Refs = 20 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 8 - Mrs Toller 
+ 	 # of Quotes = 9 	 # of Refs = 5 	 % of quotes = 4% 	 Total String Length = 1641 
+
+ 7 - Mrs Rucastle 
+ 	 # of Quotes = 0 	 # of Refs = 13 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 5 - Miss Stoper 
+ 	 # of Quotes = 0 	 # of Refs = 6 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 9 - Alice Rucastle 
+ 	 # of Quotes = 0 	 # of Refs = 6 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 10 - Mr Fowler 
+ 	 # of Quotes = 0 	 # of Refs = 5 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 11 - Unknown 
+ 	 # of Quotes = 4 	 # of Refs = 0 	 % of quotes = 2% 	 Total String Length = 226 
+
+ 3 - Mary Sutherland 
+ 	 # of Quotes = 0 	 # of Refs = 1 	 % of quotes = 0% 	 Total String Length = 0 
+
+ 
+

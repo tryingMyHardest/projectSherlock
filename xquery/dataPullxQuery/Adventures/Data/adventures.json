@@ -1,0 +1,2909 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  "A SCANDAL IN BOHEMIA", 
+
+ "type": "story", 
+
+ "size":  350 
+
+ }, 
+
+ { 
+
+ "label":  "THE RED-HEADED LEAGUE", 
+
+ "type": "story", 
+
+ "size":  358 
+
+ }, 
+
+ { 
+
+ "label":  "A CASE OF IDENTITY", 
+
+ "type": "story", 
+
+ "size":  270 
+
+ }, 
+
+ { 
+
+ "label":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "type": "story", 
+
+ "size":  373 
+
+ }, 
+
+ { 
+
+ "label":  "THE FIVE ORANGE PIPS", 
+
+ "type": "story", 
+
+ "size":  228 
+
+ }, 
+
+ { 
+
+ "label":  "THE MAN WITH THE TWISTED LIP", 
+
+ "type": "story", 
+
+ "size":  327 
+
+ }, 
+
+ { 
+
+ "label":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "type": "story", 
+
+ "size":  336 
+
+ }, 
+
+ { 
+
+ "label":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "type": "story", 
+
+ "size":  354 
+
+ }, 
+
+ { 
+
+ "label":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "type": "story", 
+
+ "size":  218 
+
+ }, 
+
+ { 
+
+ "label":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "type": "story", 
+
+ "size":  374 
+
+ }, 
+
+ { 
+
+ "label":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "type": "story", 
+
+ "size":  316 
+
+ }, 
+
+ { 
+
+ "label":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "type": "story", 
+
+ "size":  353 
+
+ }, 
+
+ { 
+
+ "label":  " Sherlock Holmes ", 
+
+ "type": "character", 
+
+ "size":  1655 
+
+ }, 
+
+ { 
+
+ "label":  " John Watson ", 
+
+ "type": "character", 
+
+ "size":  435 
+
+ }, 
+
+ { 
+
+ "label":  " Wilhelm Ormstein ", 
+
+ "type": "character", 
+
+ "size":  62 
+
+ }, 
+
+ { 
+
+ "label":  " Irene Adler ", 
+
+ "type": "character", 
+
+ "size":  24 
+
+ }, 
+
+ { 
+
+ "label":  " Unknown ", 
+
+ "type": "character", 
+
+ "size":  70 
+
+ }, 
+
+ { 
+
+ "label":  " Jabez Wilson ", 
+
+ "type": "character", 
+
+ "size":  108 
+
+ }, 
+
+ { 
+
+ "label":  " Jones ", 
+
+ "type": "character", 
+
+ "size":  19 
+
+ }, 
+
+ { 
+
+ "label":  " Merryweather ", 
+
+ "type": "character", 
+
+ "size":  23 
+
+ }, 
+
+ { 
+
+ "label":  " John Clay ", 
+
+ "type": "character", 
+
+ "size":  15 
+
+ }, 
+
+ { 
+
+ "label":  " Mary Sutherland ", 
+
+ "type": "character", 
+
+ "size":  50 
+
+ }, 
+
+ { 
+
+ "label":  " James Windibank ", 
+
+ "type": "character", 
+
+ "size":  30 
+
+ }, 
+
+ { 
+
+ "label":  " Mary Watson ", 
+
+ "type": "character", 
+
+ "size":  8 
+
+ }, 
+
+ { 
+
+ "label":  " Lestrade ", 
+
+ "type": "character", 
+
+ "size":  93 
+
+ }, 
+
+ { 
+
+ "label":  " Alice Turner ", 
+
+ "type": "character", 
+
+ "size":  24 
+
+ }, 
+
+ { 
+
+ "label":  " John Turner ", 
+
+ "type": "character", 
+
+ "size":  34 
+
+ }, 
+
+ { 
+
+ "label":  " John Openshaw ", 
+
+ "type": "character", 
+
+ "size":  79 
+
+ }, 
+
+ { 
+
+ "label":  " Kate Whitney ", 
+
+ "type": "character", 
+
+ "size":  9 
+
+ }, 
+
+ { 
+
+ "label":  " Isa Whitney ", 
+
+ "type": "character", 
+
+ "size":  12 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs St Clair ", 
+
+ "type": "character", 
+
+ "size":  49 
+
+ }, 
+
+ { 
+
+ "label":  " Bradstreet ", 
+
+ "type": "character", 
+
+ "size":  53 
+
+ }, 
+
+ { 
+
+ "label":  " Neville St Clair ", 
+
+ "type": "character", 
+
+ "size":  37 
+
+ }, 
+
+ { 
+
+ "label":  " Peterson ", 
+
+ "type": "character", 
+
+ "size":  20 
+
+ }, 
+
+ { 
+
+ "label":  " Henry Baker ", 
+
+ "type": "character", 
+
+ "size":  22 
+
+ }, 
+
+ { 
+
+ "label":  " Breckinridge ", 
+
+ "type": "character", 
+
+ "size":  29 
+
+ }, 
+
+ { 
+
+ "label":  " James Ryder ", 
+
+ "type": "character", 
+
+ "size":  50 
+
+ }, 
+
+ { 
+
+ "label":  " Helen Stoner ", 
+
+ "type": "character", 
+
+ "size":  89 
+
+ }, 
+
+ { 
+
+ "label":  " Grimesby Roylott ", 
+
+ "type": "character", 
+
+ "size":  29 
+
+ }, 
+
+ { 
+
+ "label":  " Victor Hatherley ", 
+
+ "type": "character", 
+
+ "size":  127 
+
+ }, 
+
+ { 
+
+ "label":  " Robert St Simon ", 
+
+ "type": "character", 
+
+ "size":  93 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Moulton ", 
+
+ "type": "character", 
+
+ "size":  11 
+
+ }, 
+
+ { 
+
+ "label":  " Francis Moulton ", 
+
+ "type": "character", 
+
+ "size":  20 
+
+ }, 
+
+ { 
+
+ "label":  " Alexander Holder ", 
+
+ "type": "character", 
+
+ "size":  134 
+
+ }, 
+
+ { 
+
+ "label":  " Mary Holder ", 
+
+ "type": "character", 
+
+ "size":  27 
+
+ }, 
+
+ { 
+
+ "label":  " Violet Hunter ", 
+
+ "type": "character", 
+
+ "size":  139 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Toller ", 
+
+ "type": "character", 
+
+ "size":  14 
+
+ }, 
+
+ { 
+
+ "label":  " Clotilde Lothman ", 
+
+ "type": "character", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Turner ", 
+
+ "type": "character", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "label":  " Hosmer Angel ", 
+
+ "type": "character", 
+
+ "size":  27 
+
+ }, 
+
+ { 
+
+ "label":  " Charles McCarthy ", 
+
+ "type": "character", 
+
+ "size":  16 
+
+ }, 
+
+ { 
+
+ "label":  " James McCarthy ", 
+
+ "type": "character", 
+
+ "size":  15 
+
+ }, 
+
+ { 
+
+ "label":  " Catherine Cusack ", 
+
+ "type": "character", 
+
+ "size":  3 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Hudson ", 
+
+ "type": "character", 
+
+ "size":  3 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Oakshott ", 
+
+ "type": "character", 
+
+ "size":  6 
+
+ }, 
+
+ { 
+
+ "label":  " Flora Millar ", 
+
+ "type": "character", 
+
+ "size":  8 
+
+ }, 
+
+ { 
+
+ "label":  " Lady St Simon ", 
+
+ "type": "character", 
+
+ "size":  5 
+
+ }, 
+
+ { 
+
+ "label":  " Arthur Holder ", 
+
+ "type": "character", 
+
+ "size":  20 
+
+ }, 
+
+ { 
+
+ "label":  " George Burnwell ", 
+
+ "type": "character", 
+
+ "size":  9 
+
+ }, 
+
+ { 
+
+ "label":  " Miss Stoper ", 
+
+ "type": "character", 
+
+ "size":  6 
+
+ }, 
+
+ { 
+
+ "label":  " Jephro Rucastle ", 
+
+ "type": "character", 
+
+ "size":  20 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Rucastle ", 
+
+ "type": "character", 
+
+ "size":  13 
+
+ }, 
+
+ { 
+
+ "label":  " Alice Rucastle ", 
+
+ "type": "character", 
+
+ "size":  6 
+
+ }, 
+
+ { 
+
+ "label":  " Mr Fowler ", 
+
+ "type": "character", 
+
+ "size":  5 
+
+ } 
+
+ 
+
+ ], 
+
+ 
+
+ "connections": [ 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 145 
+
+ }, 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 47 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Irene Adler ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Irene Adler ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 54 
+
+ } , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Wilhelm Ormstein ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 59 
+
+ } , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Wilhelm Ormstein ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Clotilde Lothman ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Mrs Turner ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A SCANDAL IN BOHEMIA", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 102 
+
+ } , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 53 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 24 
+
+ } , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Jabez Wilson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 87 
+
+ } , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Jabez Wilson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 21 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Mary Sutherland ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Jones ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Jones ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Merryweather ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 11 
+
+ } , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Merryweather ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 12 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " John Clay ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " John Clay ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE RED-HEADED LEAGUE", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 92 
+
+ } , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 46 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Irene Adler ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Mary Sutherland ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 39 
+
+ } , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Mary Sutherland ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Hosmer Angel ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 27 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " James Windibank ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 11 
+
+ } , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " James Windibank ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 19 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 20 
+
+ } , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CASE OF IDENTITY", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 108 
+
+ } , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 47 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 38 
+
+ } , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " John Turner ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 21 
+
+ } , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " John Turner ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Charles McCarthy ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 16 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " James McCarthy ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 15 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Alice Turner ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Alice Turner ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Lestrade ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 31 
+
+ } , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 24 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Mary Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE BOSCOMBE VALLEY MYSTERY", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 29 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FIVE ORANGE PIPS", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 83 
+
+ } , 
+
+ { 
+
+ "from":  "THE FIVE ORANGE PIPS", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 25 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FIVE ORANGE PIPS", 
+
+ "to":  " John Openshaw ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 66 
+
+ } , 
+
+ { 
+
+ "from":  "THE FIVE ORANGE PIPS", 
+
+ "to":  " John Openshaw ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FIVE ORANGE PIPS", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 37 
+
+ } , 
+
+ { 
+
+ "from":  "THE FIVE ORANGE PIPS", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Isa Whitney ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Isa Whitney ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Kate Whitney ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Kate Whitney ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 32 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 18 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 104 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 29 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Neville St Clair ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 17 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Neville St Clair ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 20 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Mrs St Clair ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 41 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Mrs St Clair ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Bradstreet ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 25 
+
+ } , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Bradstreet ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Mary Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE MAN WITH THE TWISTED LIP", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 115 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 38 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Irene Adler ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Mary Sutherland ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Peterson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Peterson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Henry Baker ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Henry Baker ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 37 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " James Ryder ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 40 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " James Ryder ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Catherine Cusack ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Mrs Hudson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Breckinridge ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 24 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Breckinridge ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Mrs Oakshott ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BLUE CARBUNCLE", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 139 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 56 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Grimesby Roylott ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Grimesby Roylott ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 19 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 24 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 12 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Mrs Hudson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Helen Stoner ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 71 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Helen Stoner ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 18 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE SPECKLED BAND", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 20 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Victor Hatherley ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 119 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Victor Hatherley ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Bradstreet ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 17 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Bradstreet ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE ENGINEER’S THUMB", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 25 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Robert St Simon ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 59 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Robert St Simon ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 34 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 126 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 34 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 31 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Lestrade ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 24 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Flora Millar ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Lady St Simon ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Francis Moulton ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Francis Moulton ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 16 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Mrs Moulton ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Mrs Moulton ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE NOBLE BACHELOR", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 87 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 28 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Alexander Holder ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 120 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Alexander Holder ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Arthur Holder ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 20 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " George Burnwell ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Mary Holder ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 18 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " Mary Holder ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE BERYL CORONET", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 74 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 43 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 21 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Mary Sutherland ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Violet Hunter ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 117 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Violet Hunter ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 22 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Miss Stoper ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Jephro Rucastle ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 20 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Mrs Rucastle ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Mrs Toller ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Mrs Toller ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Alice Rucastle ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Mr Fowler ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE ADVENTURE OF THE COPPER BEECHES", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ ] 
+
+ }

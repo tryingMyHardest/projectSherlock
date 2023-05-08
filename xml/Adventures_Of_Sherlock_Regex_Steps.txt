@@ -1,0 +1,212 @@
+These are instructions to help markup Sherlock Holmes short story collections using RegEx.
+
+1. Search for any special chars (&, <, >) & escape them:
+
+	Find: &, <, > - One at a time
+	Replace: &amp; - &
+
+2. Replace all quotation marks with readable ones.
+
+	Find: “, ” - One at a time
+	Replace: " 
+
+2. Wrap all paragraph with <p> tags, this will get more but will be fixed later.
+
+	Find: ^\n
+	Replace: </p>\n\n<p>
+
+3. Clean up empty <p> elements
+
+	Find: <p></p>
+	replace: 
+
+4. Find & tag quotes
+
+	Find: "(.+?)["<] - Turn on dot matches all
+	Replace: <quote spokeBy="">\1</quote>
+
+*** Clean up @spokeBy
+
+	Find: quote spokeBy=""
+	Enter name in quotes:
+
+**********************************************************************
+
+- Sherlock_Holmes
+- John_Watson
+- Lestrade
+- Irene_Adler
+- Jabez_Wilson
+- Mary_Sutherland
+- Charles_McCarthy
+- James_McCarthy
+- Alice_McCarthy
+- John_Turner
+- John_Openshaw
+- Count_Von_Kramm (Change to Wilhelm_Ormstein New <person>) not done
+- Unknown
+- Jones (Mr. Jones New <person>) DONE ✅ 
+- Merryweather (Mr. Merryweather new <person>) DONE ✅ 
+- John_Clay (New <person>) DONE ✅ 
+- Hosmer_Angel (New <person>) DONE ✅ 
+- James_Windibank (New <person>) DONE ✅ 
+- Mary_Watson (New <person>) not done
+- Miss_Turner (Alice Turner New <person>) DONE ✅ 
+- Kate_Whitney (New <person>) DONE ✅ 
+- Isa Whitney (New <person>) DONE ✅ 
+- Bradstreet (New <person>) DONE ✅ 
+- Peterson (commissionaire New <person>) DONE ✅ 
+- Henry_Baker (New <person>) DONE ✅ 
+- Mrs. Hudson (New <person>) DONE ✅ 
+- Breckinridge (New <person>) DONE ✅ 
+- Mrs. Oakshott (New <person>) DONE ✅ 
+- John_Robinson (New <person>) DONE ✅ 
+- Catherine Cusack (New <person>) DONE ✅ 
+- Grimesby_Roylott [Dr.] (new <person>) DONE ✅ 
+- Flora_Millar (New <person>) DONE ✅ 
+- Robert_St_Simon (New <person>) DONE ✅ 
+- Lady_St_Simon (New <person>) DONE ✅ 
+- Mrs. Moulton (New <person>) DONE ✅ 
+- Francis_Moulton (New <person>) DONE ✅ 
+- Alexander_Holder (New <person>) DONE ✅ 
+- Mary_Holder (New <person>) DONE ✅ 
+- Arthur_Holder (New <person>) DONE ✅ 
+- George_Burnwell (New <person>) DONE ✅ 
+- Jephro_Rucastle (New <person>) DONE ✅ 
+- Mrs_Toller (New <person>) DONE ✅ 
+
+**********************************************************************
+
+*** Clean up broken end </p> tags:
+	
+	Find: /p>
+	Replace: </p>
+	Find: <</p>
+	Replace: </p>
+
+5. Find & Tag all name references to chars:
+- Sherlock Holmes
+
+	Find: Sherlock Holmes|Mr. Sherlock Holmes|Mr.\nSherlock Holmes|Sherlock\nHolmes|Mr. Sherlock\nHolmes|Mr. Holmes|Sherlock|Holmes|Mr.\nSherlock|Mr.\nHolmes
+	Replace: <person perName="Sherlock_Holmes">\0</person>
+
+- Dr. John Watson
+
+	Find: Dr. Watson|Watson|Dr. John Watson|Dr.\nWatson|Dr.\nJohn Watson|Dr. John\nWatson|John Watson|John\nWatson
+	Replace: <person perName="John_Watson">\0</person>
+
+- Mr. Lestrade
+
+	Find: Lestrade|Mr. Lestrade|Mr.\nLestrade
+	Replace: <person perName="Lestrade">\0</person>
+
+- Irene Adler
+
+	Find: Irene Adler|Irene\nAdler|Miss Irene|Miss Adler|Miss\nIrene|Miss\nAdler|Irene|Adler
+	Replace: <person perName="Irene_Adler">\0</person>
+
+- Jabez Wilson
+
+	Find: Mr. Jabez Wilson|Mr.\nJabez Wilson|Mr. Jabez\nWilson|Jabez Wilson|Jabez\nWilson|Mr. Wilson|Mr.\nWilson|Jabez|Wilson
+	Replace: <person perName="Jabez_Wilson">\0</person>
+
+- Miss Mary Sutherland
+
+	Find: Miss Mary Sutherland|Miss\nMary Sutherland|Miss Mary\nSutherland|Mary Sutherland|Mary\nSutherland|Miss Sutherland|Miss\nSutherland|Sutherland
+	Replace: <person perName="Mary_Sutherland">\0</person>
+
+- Charles McCarthy
+
+	Find: Mr. Charles McCarthy|Mr.\nCharles McCarthy|Mr. Charles\nMcCarthy|Charles McCarthy|Charles\nMcCarthy
+	Replace: <person perName="Charles_McCarthy">\0</person>
+
+- James McCarthy
+
+	Find: Mr. James McCarthy|Mr.\nJames McCarthy|Mr. James\nMcCarthy|James McCarthy|James\nMcCarthy
+	Replace: <person perName="James_McCarthy">\0</person>
+
+*** Mark up all male references to Mr. McCarthy
+
+	Find: Mr. McCarthy|Mr.\nMcCarthy
+	Replace: <person perName="Male_McCarthy">\0</person>
+
+!*- Will have to go back & correct these attributes.-*!
+
+- Alice McCarthy
+
+*** Manually markup for Alice, search for Alice & markup the first four or so.
+
+*** Markup any references to stand alone McCarthy
+
+	Find: ' McCarthy '
+	Replace: <person perName="Unknown_McCarthy">\0</person>
+
+!*- Will need to correct attributes. -*!
+
+- John Turner
+
+	Find: Mr. John Turner|Mr.\nJohn Turner|Mr. John\nTurner|John Turner|John\nTurner|Mr. Turner|Mr.\nTurner
+	Replace: <person perName="John_Turner">\0</person>
+
+*** Markup any stand alone Turner
+
+	Find: ' Turner '
+	Replace: <person perName="Turner">\0</person>
+
+!*- Will need to correct the attributes -*!
+
+- John Openshaw
+
+	Find: John Openshaw|John\nOpenshaw|Openshaw
+	Replace: <person perName="John_Openshaw">\0</person>
+
+- Neville St. Clair
+	
+	Find: Mr. Neville St. Clair|Mr.\nNeville St. Clair|Mr. Neville\nSt. Clair|Mr. Neville St.\nClair|Neville St. Clair|Neville\nSt. Clair|Neville St.\nClair|Mr. St. Clair|Mr.\nSt. Clair|Mr. St.\nClair
+	Replace: <person perName="Neville_St_Clair">\0</person>
+
+- Mrs. St. Clair
+
+	Find: Mrs. St. Clair
+	Replace: <person perName="Mrs_St_Clair">\0</person>
+
+- Helen Stoner
+
+	Find: Miss Helen Stoner|Miss\nHelen Stoner|Miss Helen\nStoner|Helen Stoner|Helen\nStoner|Miss Stoner|Miss\nStoner
+	Replace: <person perName="Helen_Stoner">\0</person>
+
+- Victor Hatherley
+
+	Find: Mr. Victor Hatherley|Mr.\nVictor Hatherley|Mr. Victor\nHatherley|Mr. Hatherley|Mr.\nHatherley
+	Replace: <person perName="Victor_Hatherley">\0</person>
+
+- Violet Hunter
+
+	Find: Miss Violet Hunter|Miss\nViolet Hunter|Miss Violet \nHunter|Miss Violet|Miss\nViolet|Miss Hunter|Miss\nHunter
+	Replace: <person perName="Violet_Hunter">\0</person>
+
+6. Find & tag any sections of short stories with clopen method.
+
+	Find: <p>([IXV]+)\.\n</p>
+	Replace: </section>\n<section number="\1">
+
+*** Clean up beginning & end section tags
+
+7. Find & tag all short stories with clopen method
+
+	Find: <p>([XIV]+)\. (.+?)\n</p>
+	Replace: </story>\n\n<story num="\1">\n<storyTitle>\2</storyTitle>
+
+*** Clean up first & last story tags
+
+8. Manual Markups
+
+	- Collection Title <title> (get rid of person tag in title)
+	- Header <header>
+	- Author <author>
+	- Table of contents <tableOfContents>
+	- Root <collection>
+
+**** If we want to find all words surrounded by underscores:
+
+	Find: ' _.+?_' with dot matches all on

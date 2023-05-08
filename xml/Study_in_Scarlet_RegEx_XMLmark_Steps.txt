@@ -1,0 +1,133 @@
+These are instructions to help markup Sherlock Holmes novels using RegEx.
+
+1. Search for any special chars (&, <, >) & escape them:
+
+	Find: &, <, > - One at a time
+
+2. Replace all quotation marks with readable ones.
+
+	Find: “, ” - One at a time
+	Replace: "
+
+2. Wrap all paragraph with <p> tags, this will get more but will be fixed later.
+
+	Find: ^\n
+	Replace: </p>\n\n<p>
+
+3. Clean up empty <p> elements
+
+	Find: <p></p>
+	replace: 
+
+4. Find & tag quotes
+
+	Find: "(.+?)["<] - Turn on dot matches all
+	Replace: <quote spokeBy="">\1</quote
+
+*** Clean up broken end </p> tags:
+	
+	Find: /p>
+	Replace: </p>
+	Find: <</p>
+	Replace: </p>
+
+5. Find & Tag all name references to chars:
+
+- Sherlock Holmes
+
+	Find: Sherlock Holmes|Mr. Sherlock Holmes|Mr.\nSherlock Holmes|Sherlock\nHolmes|Mr. Sherlock\nHolmes|Mr. Holmes|Sherlock|Holmes|Mr.\nSherlock|Mr.\nHolmes
+	Replace: <person perName="Sherlock_Holmes">\0</person>
+
+- Dr. John Watson
+
+	Find: Dr. Watson|Watson|Dr. John Watson|Dr.\nWatson|Dr.\nJohn Watson|Dr. John\nWatson|John Watson|John\nWatson
+	Replace: <person perName="John_Watson">\0</person>
+
+
+- Jefferson Hope
+
+	Find: Jefferson Hope|Mr. Hope|Jefferson|Hope|Jefferson\nHope|Mr.\nHope|Mr. Jefferson Hope|Mr.\nJefferson Hope|Mr. Jefferson\nHope
+	Replace: <person perName="Jefferson_Hope">\0</person>
+
+- Tobias Gregson
+
+	Find: Tobias Gregson|Tobias|Gregson|Tobias\nGregson|Mr Gregson|Mr\nGregson
+	Replace: <person perName="Tobias_Gregson">\0</person>
+
+- Mr. Lestrade
+
+	Find: Lestrade|Mr. Lestrade|Mr.\nLestrade
+	Replace: <person perName="Lestrade">\0</person>
+
+- John Ferrier
+
+	Find: John Ferrier|John\nFerrier
+	Replace: <person perName="John_Ferrier">\0</person>
+
+- Lucy Ferrier
+
+	Find: Lucy Ferrier|Lucy\nFerrier
+	Replace: <person perName="Lucy_Ferrier">\0</person>
+
+- Enoch Drebber
+
+	Find: Enoch Drebber|Mr. Enoch J. Drebber|Enoch J. Drebber|Enoch\nJ. Drebber|Enoch J.\nDrebber|E. J. Drebber|E.\nJ. Drebber|E. J.\nDrebber|Enoch|Mr. Drebber|Drebber
+	Replace: <person perName="Enoch_J_Drebber">\0</person>
+
+- Joseph Stangerson
+
+	Find: Joseph Stangerson|Joseph\nStangerson|Mr. Joseph Stangerson|Mr.\nJoseph Stangerson|Mr. Joseph\nStangerson|Mr. Stangerson| Mr.\nStangerson|Joseph|Stangerson
+	Replace: <person perName="Joseph_Stangerson">\0</person>
+
+- Brigham Young
+
+	Find: Brigham Young|Young
+	Replace: <person perName="Brigham_Young">\0</person>
+
+	** Search Young & fix they 3 places it's used to describe someone
+
+- John Rance
+
+	Find: 'John Rance| Rance '
+	Replace: <person perName="John_Rance">\0</person>
+
+- Stamford
+
+	Find: Stamford
+	Replace: <person perName="Stamford">\0</person>
+
+-Orentes
+	
+	Find: Orentes
+	Replace: <person perName="Orentes">\0</person>
+
+-Joseph Smith
+
+	Find: Joseph Smith, Smith
+	Replace:  <person perName="Joseph_Smith">\0</person>
+
+6. Find all Chapters in the book and wrap them & also wrap the chapter titles
+
+	Find: <p>CHAPTER ([IV]+)\.\n(.+?)</p>
+	</chapter>\n\n<chapter num="\1">\n<chaperTitle>\2</chapterTitle>
+
+*** Clean up beginning & end chapter tags
+
+7. Find both parts & wrap both the parts & their titles
+
+*** Clean up part titles so there are no underscores & they are located in same <p> element right under part.
+
+	Find: <p>PART (I+)\.\n(.+?)</p>
+	Replace: </part>\n\n<part num="\1">\n<partTitle>\2</partTitle>
+
+*** Clean up last chapter tag in part 1 & 1st chapter in part 2. Also, clean up part tags at beginning & end.
+
+8. Manual Markups
+
+	- Title <title>
+	- Author <author>
+	- Table of Contents <tableOfContents>
+	- Root element <book>
+	- <?xml version="1.0" encoding="UTF-8"?> at the top
+
+9. Add back in pretext/posttext & tag

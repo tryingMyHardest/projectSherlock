@@ -1,0 +1,2371 @@
+{ 
+
+ "elements": [ 
+
+ { 
+
+ "label":  "MR. SHERLOCK HOLMES", 
+
+ "type": "chapter", 
+
+ "size":  18 
+
+ }, 
+
+ { 
+
+ "label":  "THE SCIENCE OF DEDUCTION", 
+
+ "type": "chapter", 
+
+ "size":  13 
+
+ }, 
+
+ { 
+
+ "label":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "type": "chapter", 
+
+ "size":  50 
+
+ }, 
+
+ { 
+
+ "label":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "type": "chapter", 
+
+ "size":  16 
+
+ }, 
+
+ { 
+
+ "label":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "type": "chapter", 
+
+ "size":  13 
+
+ }, 
+
+ { 
+
+ "label":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "type": "chapter", 
+
+ "size":  56 
+
+ }, 
+
+ { 
+
+ "label":  "LIGHT IN THE DARKNESS", 
+
+ "type": "chapter", 
+
+ "size":  63 
+
+ }, 
+
+ { 
+
+ "label":  "ON THE GREAT ALKALI PLAIN", 
+
+ "type": "chapter", 
+
+ "size":  8 
+
+ }, 
+
+ { 
+
+ "label":  "THE FLOWER OF UTAH", 
+
+ "type": "chapter", 
+
+ "size":  21 
+
+ }, 
+
+ { 
+
+ "label":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "type": "chapter", 
+
+ "size":  16 
+
+ }, 
+
+ { 
+
+ "label":  "A FLIGHT FOR LIFE", 
+
+ "type": "chapter", 
+
+ "size":  40 
+
+ }, 
+
+ { 
+
+ "label":  "THE AVENGING ANGELS", 
+
+ "type": "chapter", 
+
+ "size":  34 
+
+ }, 
+
+ { 
+
+ "label":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "type": "chapter", 
+
+ "size":  42 
+
+ }, 
+
+ { 
+
+ "label":  "THE CONCLUSION", 
+
+ "type": "chapter", 
+
+ "size":  25 
+
+ }, 
+
+ { 
+
+ "label":  " Orentes ", 
+
+ "type": "character", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "label":  " Stamford ", 
+
+ "type": "character", 
+
+ "size":  32 
+
+ }, 
+
+ { 
+
+ "label":  " John Watson ", 
+
+ "type": "character", 
+
+ "size":  146 
+
+ }, 
+
+ { 
+
+ "label":  " Sherlock Holmes ", 
+
+ "type": "character", 
+
+ "size":  272 
+
+ }, 
+
+ { 
+
+ "label":  " Unknown ", 
+
+ "type": "character", 
+
+ "size":  94 
+
+ }, 
+
+ { 
+
+ "label":  " Tobias Gregson ", 
+
+ "type": "character", 
+
+ "size":  57 
+
+ }, 
+
+ { 
+
+ "label":  " Lestrade ", 
+
+ "type": "character", 
+
+ "size":  41 
+
+ }, 
+
+ { 
+
+ "label":  " John Rance ", 
+
+ "type": "character", 
+
+ "size":  20 
+
+ }, 
+
+ { 
+
+ "label":  " Mrs Sawyer ", 
+
+ "type": "character", 
+
+ "size":  10 
+
+ }, 
+
+ { 
+
+ "label":  " Alice ", 
+
+ "type": "character", 
+
+ "size":  1 
+
+ }, 
+
+ { 
+
+ "label":  " Madame Charpentier ", 
+
+ "type": "character", 
+
+ "size":  13 
+
+ }, 
+
+ { 
+
+ "label":  " Enoch J Drebber ", 
+
+ "type": "character", 
+
+ "size":  13 
+
+ }, 
+
+ { 
+
+ "label":  " Arthur ", 
+
+ "type": "character", 
+
+ "size":  2 
+
+ }, 
+
+ { 
+
+ "label":  " Wiggins ", 
+
+ "type": "character", 
+
+ "size":  2 
+
+ }, 
+
+ { 
+
+ "label":  " John Ferrier ", 
+
+ "type": "character", 
+
+ "size":  44 
+
+ }, 
+
+ { 
+
+ "label":  " Jefferson Hope ", 
+
+ "type": "character", 
+
+ "size":  87 
+
+ }, 
+
+ { 
+
+ "label":  " Lucy Ferrier ", 
+
+ "type": "character", 
+
+ "size":  17 
+
+ }, 
+
+ { 
+
+ "label":  " Brigham Young ", 
+
+ "type": "character", 
+
+ "size":  12 
+
+ }, 
+
+ { 
+
+ "label":  " Joseph Stangerson ", 
+
+ "type": "character", 
+
+ "size":  7 
+
+ }, 
+
+ { 
+
+ "label":  " Cowper ", 
+
+ "type": "character", 
+
+ "size":  7 
+
+ }, 
+
+ { 
+
+ "label":  " Joseph Smith ", 
+
+ "type": "character", 
+
+ "size":  0 
+
+ }, 
+
+ { 
+
+ "label":  " Ferrier ", 
+
+ "type": "character", 
+
+ "size":  0 
+
+ } 
+
+ 
+
+ ], 
+
+ 
+
+ "connections": [ 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " Stamford ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 32 
+
+ }, 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " Stamford ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 36 
+
+ } , 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 23 
+
+ } , 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "MR. SHERLOCK HOLMES", 
+
+ "to":  " Orentes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE SCIENCE OF DEDUCTION", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 23 
+
+ } , 
+
+ { 
+
+ "from":  "THE SCIENCE OF DEDUCTION", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE SCIENCE OF DEDUCTION", 
+
+ "to":  " Stamford ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE SCIENCE OF DEDUCTION", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE SCIENCE OF DEDUCTION", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 26 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE SCIENCE OF DEDUCTION", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 60 
+
+ } , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 23 
+
+ } , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 17 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Lestrade ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE LAURISTON GARDENS MYSTERY", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 16 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 38 
+
+ } , 
+
+ { 
+
+ "from":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 12 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "WHAT JOHN RANCE HAD TO TELL", 
+
+ "to":  " John Rance ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 20 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 30 
+
+ } , 
+
+ { 
+
+ "from":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 27 
+
+ } , 
+
+ { 
+
+ "from":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "OUR ADVERTISEMENT BRINGS A VISITOR", 
+
+ "to":  " Mrs Sawyer ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Lestrade ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 31 
+
+ } , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 11 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 28 
+
+ } , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 15 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 11 
+
+ } , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Alice ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Madame Charpentier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 13 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "TOBIAS GREGSON SHOWS WHAT HE CAN DO", 
+
+ "to":  " Arthur ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Lestrade ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 26 
+
+ } , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 38 
+
+ } , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 23 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 11 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "LIGHT IN THE DARKNESS", 
+
+ "to":  " Wiggins ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 9 
+
+ } , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " Joseph Smith ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " Brigham Young ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 68 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "ON THE GREAT ALKALI PLAIN", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Brigham Young ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 15 
+
+ } , 
+
+ { 
+
+ "from":  "THE FLOWER OF UTAH", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 17 
+
+ } , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Brigham Young ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 12 
+
+ } , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Brigham Young ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "JOHN FERRIER TALKS WITH THE PROPHET", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 18 
+
+ } , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 17 
+
+ } , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 15 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Brigham Young ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A FLIGHT FOR LIFE", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 12 
+
+ } , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 14 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 3 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " John Watson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE AVENGING ANGELS", 
+
+ "to":  " Cowper ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 7 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Lestrade ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 43 
+
+ } , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 17 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 6 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " John Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Lucy Ferrier ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 1 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Jefferson Hope ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 8 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Tobias Gregson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Lestrade ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 22 
+
+ } , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Sherlock Holmes ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 4 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Enoch J Drebber ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 5 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Joseph Stangerson ", 
+
+ "type": "reference", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " John Watson ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 10 
+
+ } 
+
+ , 
+
+ { 
+
+ "from":  "THE CONCLUSION", 
+
+ "to":  " Unknown ", 
+
+ "type": "quote", 
+
+ "direction": "undirected", 
+
+ "size": 2 
+
+ } 
+
+ ] 
+
+ }

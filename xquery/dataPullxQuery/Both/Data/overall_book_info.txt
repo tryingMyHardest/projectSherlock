@@ -1,0 +1,11 @@
+The Adventures of Sherlock Holmes
+ Total length =  562514 
+ # of Characters =  51 
+ # of Quotes =  2739 
+ # of References =  1118 
+ 
+A STUDY IN SCARLET
+ Total length =  237927 
+ # of Characters =  21 
+ # of Quotes =  878 
+ # of References =  415

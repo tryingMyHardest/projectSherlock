@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person perName="Sherlock_Holmes">
+    <bio>  a detective who pursues criminals throughout Victorian and Edwardian London, south of England and continental Europe alongside his friend Dr Watson. Holmes is famous for his prowess at using logic and astute observation to solve cases.  </bio>
+
+</person>
+
+    <person perName="John_Watson">
+    <bio> served as an army doctor in Afghanistan, and only came back to England after he got a rifle wound to the leg. Presented as a knowledgeable, brave, strong-willed, and thoroughly professional, as well as a competent detective in his own right. He acts as Holmes's best friend and sidekick, and they solve many mysteries together. He also serves as a foil to Holmes: the ordinary man against the brilliant, emotionally detached analytical machine that Holmes can sometimes be.     </bio>   
+    
+</person>
+    
+<person perName="Lestrade">
+    <bio> an honest and humble detective inspector, he is the Detective Inspector of Scotland Yard. He knows when he is out of his depth and for the sake of the case, he consults Sherlock Holmes, knowing Holmes is far more intelligent than the rest.  </bio>   
+    
+</person>
+    
+    <person perName="Wilhelm_Ormstein">
+    <bio> a client of Holmes, Wilhelm Gottsreich Sigismond von Ormstein, Grand Duke of Cassel-Felstein and hereditary king of Bohemia originally visited Holmes as a masked gentleman introducing himself as Count von Kramm. He employs Holmes to recover a photograph that is crucial to the King of Bohemia’s reputation.   </bio>    
+    
+</person>
+    
+    <person perName="Irene_Adler">
+    <bio> intelligent, manipulative, and deeply cynical. Adler is one of the most notable female characters in the Sherlock Holmes series, despite appearing in only one story. While not technically a criminal and bearing no malice towards Holmes, she outsmarts him and evades his traps. Sherlock Holmes refers to her afterward respectfully as "the Woman."  </bio>    
+    
+</person>
+    
+<person perName="jabez wilson ">
+    <bio> a London pawnbroker, and client of Holmes. He came to Sherlock Holmes after being allowed into the mysterious Red-Headed League, a society for gentlemen with very red hair, when, a few months after he joined, it dissolved, and he could find no trace of it or of its founder.  </bio>    
+    
+</person>
+    
+<person perName="mary sutherland ">
+    <bio> a wealthy young woman who sought Sherlock Holmes' help, she was engaged to Mr. Hosmer Angel, who disappeared on the day of their wedding, leaving her only a mysterious plea that she remains faithful to him no matter what happened.   </bio>  
+    
+</person>
+    
+    <person perName="Charles McCarthy ">
+        <bio> rents a farm in the Boscombe Valley area from John Turner, he is found dead in the woods by a small lake.  </bio>   
+    
+</person>
+    
+    <person perName="James_McCarthy">
+    <bio>the son of Charles McCarthy, is accused with the murder of his father, who was found beaten to death by the Boscombe Pool.</bio>
+    
+</person>
+    
+    <person perName="Alice_Turner">
+    <bio>the daughter of John Turner. She is James McCarty’s childhood best friend and later wife and believes him to be innocent.</bio>
+    
+</person>
+    
+    <person perName="John_Turner">
+        <bio>the largest land owner in the Boscombe Valley area, and father of Alice Turner. He is the true murderer of Charles McCarthy.</bio>
+    
+</person>
+    
+    <person perName="John_Openshaw">
+        <bio>a client of Sherlock Holmes. He seeks Holmes' assistance in solving the mystery behind a series of mysterious letters that seem to relate to the recent suspicious deaths of his uncle Elias and his father Joseph.</bio>
+    
+</person>
+    
+    <person perName="Neville_St_Clair">
+        <bio>a British businessman. He had a good reputation, though his job took him away from home frequently, and on one on his business trips he suddenly disappeared. His distraught wife enlisted Sherlock Holmes to find him, as she suspected he had been kidnapped since she believed she saw him some days later in an opium den in London.</bio>
+    
+</person>
+    
+    <person perName="Helen_Stoner">
+        <bio>a client of Sherlock Holmes. When she had to move into her deceased sister’s room because of repairs to the house, she heard a whistle that had been the herald of her sister's death. She sprang up and lit the lamp but saw nothing in the room. Being too shaken to go to bed again, she got dressed, and as soon as it was daylight, she went to consult Holmes for help.</bio>
+    
+</person>
+v
+    <person perName="Victor_Hatherley">
+        <bio>a fairly smart hydraulic engineer, comes to Sherlock Holmes and Dr. Watson because of his missing thumb, and explains to them how it came to be that way.</bio>
+    
+</person>
+v
+    <person perName="Violet_Hunter">
+        <bio>a client of Sherlock Holmes. She visits Holmes, asking whether she should accept a job as governess, a job with very strange conditions. She is enticed by the phenomenal salary which, as originally offered, is £100 a year, later increased to £120 when Miss Hunter balks at having to cut her long hair short (her previous position paid £48 a year). This is only one of many peculiar provisos to which she must agree. The employer, Jephro Rucastle, seems pleasant enough, yet Miss Hunter obviously has her suspicions.</bio>
+    
+</person>
+
+    <person perName="Clotilde_Lothman">
+        <bio>Princess Clotilde Lothman von Saxe-Meiningen is the second daughter of the king of Scandinavia. She was engaged to be married to King Wilhelm of Bohemia when a potential scandal arose, with Irene Adler threatening to reveal that Irene and the King had had an affair if the King married Clotilde.</bio>
+    
+</person>
+    
+    <person perName="Mrs_Turner">
+        <bio>was the landlady of Sherlock Holmes in A Scandal in Bohemia.</bio>
+    
+</person>
+    
+    <person perName="Jones">
+        <bio>Detective Peter Jones is the incompetent policeman assigned to the case. Sherlock Holmes describes him as an “imbecile” in his profession. He is later brought in by Sherlock Holmes to help with the arrests at the end of the story.</bio>
+    
+</person>
+    
+    <person perName="Merryweather">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="John_Clay">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="Hosmer_Angel">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="James_Windibank">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="Mary_Watson">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="Isa_Whitney">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="Kate_Whitney">
+    <bio></bio>
+    
+</person>
+    
+    <person perName="Mrs_St_Clair">
+        <bio></bio>
+        
+</person>
+    
+    <person perName="Bradstreet">
+        <bio></bio>
+        
+</person>
+    
+    <person perName="Peterson">
+        <bio></bio>
+        
+</person>
+    
+    <person perName="Henry_Baker">
+        <bio></bio>
+        
+</person>
+    
+    <person perName="James_Ryder">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Catherine Cusack">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mrs_Hudson">
+      <bio></bio>  
+        
+    </person>
+    
+    <person perName="Breckinridge">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mrs_Oakshott">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Grimesby_Roylott">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Robert_St_Simon">
+        <bio></bio>
+        
+    </person>
+    <bio></bio>
+    
+    <person perName="Flora_Millar">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Lady_St_Simon">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Francis_Moulton">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mrs_Moulton">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Alexander_Holder">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Arthur_Holder">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="George_Burnwell">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mary_Holder">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Miss_Stoper">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Jephro_Rucastle">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mrs_Rucastle">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mrs_Rucastle">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Mrs_Toller">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Alice_Rucastle">
+        <bio></bio>
+        
+    </person>
+   
+    <person perName="Mr_Fowler">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Brigham_Young">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Cowper">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Enoch_J_Drebber">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Ferrier">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Jefferson_Hope">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="John_Ferrier">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="John_Rance">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Joseph_Smith">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Joseph_Stangerson">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Lucy_Ferrier">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Madame_Charpentier">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Mrs_Sawyer">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Wiggins">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Tobias_Gregson">
+        <bio></bio>
+        
+    </person>
+    
+    
+    <person perName="Stamford">
+        <bio></bio>
+        
+    </person>
+    
+    <person perName="Unknown ">
+        <bio></bio>
+        
+    </person>
+
+
+
+
+</root>

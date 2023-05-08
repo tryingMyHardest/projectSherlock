@@ -1,0 +1,31 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = collection
+
+collection = element collection {preText, header, tableOfContents, story+, postText}
+
+preText = element preText{text}
+postText = element postText{text}
+
+header = element header{(text | title | author)+}
+
+author = element author {text}
+
+title = element title{text}
+
+tableOfContents = element tableOfContents {text}
+    
+story = element story {num, storyTitle, (section | p)+}
+    num = attribute num {text}
+    storyTitle = element storyTitle{text}
+    section = element section{number, (p | text)+}
+        number = attribute number{text}
+        
+p = element p {(text | person | quote | location)+}
+        person = element person{perName, text}
+            perName = attribute perName{text}
+        quote = element quote{spokeBy, (person | location | text)+}
+            spokeBy = attribute spokeBy{text}
+        location = element location {text}
+
+#This is a rough draft. Will definitely be updated. - AD
