@@ -1,2 +1,8 @@
-# projectSherlock
-This site serves as a literary analysis of the first Sherlock Holmes stand-alone novel &amp; collection of short stories. The site also contains these books for reading.
+Pages URL: https://kate-schmidt.github.io/Holmes/
+
+         -Team Roles-
+Team Co-Ordinator: Danny Rodgers
+Subject Expert: Kate Schmidt
+Quality Control: Danny Rodgers
+Web Design/UX Maven: Alex Doran
+Documentation Officer: Christian Kubacka
