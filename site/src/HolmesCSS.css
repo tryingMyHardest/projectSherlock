@@ -566,7 +566,7 @@ opacity: .7;
   margin-left: 2vw;
   border-style: none;
   background: none;
-  transition: all .5s ease;
+  transition: transform .75s ease;
   z-index: 51;
 }
 
@@ -575,7 +575,7 @@ opacity: .7;
 }
 
 .reverse-arrow{
-  transform: scaleX(-1) translateX(-50vw);
+  transform: scaleX(-1) translate(-90vw, -85vh) ;
 }
 
 
