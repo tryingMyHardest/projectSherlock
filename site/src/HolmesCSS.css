@@ -76,6 +76,8 @@
   }
   
   body {
+    --nav-height: 75px;
+    padding-top: var(--nav-height);
     padding-left: 0px;
     padding-right: 0px;
     color: #423d39;
@@ -162,16 +164,26 @@
 /* ------------------- NAV BAR --------------------- */
 
 nav{
+  height: var(--nav-height);
+  width: 100vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #423d39;
-  position: sticky;
+  position: fixed;
   top: 0;
   z-index: 10;
   color: #c7ae96;
   box-shadow: 0 3px 5px #252525;
   padding: 2px 15px;
+  padding-right: 15px;
+  transition: transform .25s;
+  box-sizing: border-box;
+}
+
+.hide-nav{
+  transform: translateY(calc(-1.5*var(--nav-height)));
+  box-shadow: none;
 }
 
 .logo > h2{
@@ -196,7 +208,7 @@ nav{
   flex-direction: column;
   background: rgb(37, 37, 37);
   height: 100vh;
-  width: fit-content;
+  width: 75vw;
   padding-left: 5px;
   padding-right: 5px;
   box-shadow: -5px 0 25px rgba(37,37,37,.7);
@@ -211,9 +223,10 @@ nav{
 }
 
 .item {
-  padding: 0 15px;
-  padding-top: 25px;
-  width: fit-content;
+  padding: 2.5px;
+  padding-top: 10px;
+  padding-right: 25px;
+  width: 100%;
   height: 10vh;
   border-style: none;
   background: none;
@@ -223,6 +236,7 @@ nav{
   font-family: Omedium;
   letter-spacing: 2px;
   font-size: 1.6rem;
+  text-align: right;
 }
 
 .item:hover{
@@ -240,18 +254,6 @@ nav{
 
 .lock-screen{
   overflow: hidden;
-}
-
-.item{
-  background: none;
-  border-style: none;
-  width: 100%;
-  margin: 2px auto;
-  text-align: right;
-  padding: 5px;
-  padding-top: 10px;
-  border-radius: 0;
-  transition: all .5s ease;
 }
 
 #burger{
@@ -511,7 +513,7 @@ opacity: .7;
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
-  width: 50vw;
+  width: 100vw;
   position: fixed;
   display: flex;
   visibility: hidden;
@@ -573,7 +575,7 @@ opacity: .7;
 }
 
 .reverse-arrow{
-  transform: scaleX(-1) translateX(-50vw);
+  transform: scaleX(-1) translateX(-90vw);
 }
 
 

@@ -80,6 +80,10 @@ const changeTab = (button, file) => {
 // Get button element
 var button = document.querySelector(".top");
 
+const nav = document.querySelector('nav');
+
+let lastScrollY = window.scrollY;
+
 // Scroll window to top of the page
 const scrollToTop = () => {
     window.scrollTo({top: 0});
@@ -96,6 +100,14 @@ const handleScroll = () => {
     // Hide button
     button.classList.remove("showBtn");
   }
+
+  if(lastScrollY < window.scrollY){
+    nav.classList.add('hide-nav');
+  }else{
+    nav.classList.remove('hide-nav');
+  }
+
+  lastScrollY = window.scrollY;
 }
 
 var names = ['Alexander_Holder', 'Alice_Rucastle',   'Alice_Turner',     'Arthur_Holder',    'Bradstreet',   'Breckinridge', 'Brigham_Young',    'Catherine Cusack', 'Charles_McCarthy', 'Clotilde_Lothman', 'Cowper',       'Enoch_J_Drebber',  'Ferrier',      'Flora_Millar', 'Francis_Moulton',  'George_Burnwell',  'Grimesby_Roylott', 'Helen_Stoner', 'Henry_Baker',  'Hosmer_Angel', 'Irene_Adler',   'Isa_Whitney',     'Jabez_Wilson', 'James_McCarthy', 'James_Ryder', 'James_Windibank', 'Jefferson_Hope', 'Jephro_Rucastle', 'John_Clay', 'John_Ferrier', 'John_Openshaw', 'John_Rance',    'John_Turner',  'John_Watson',  'Jones',        'Joseph_Smith', 'Joseph_Stangerson', 'Kate_Whitney', 'Lady_St_Simon', 'Lestrade',       'Lucy_Ferrier', 'Mary_Holder',  'Mary_Sutherland',  'Mary_Watson', 'Merryweather', 'Miss_Stoper', 'Mr_Fowler', 'Mrs_Hudson', 'Mrs_Moulton', 'Mrs_Oakshott', 'Mrs_Rucastle', 'Mrs_Sawyer',   'Mrs_St_Clair', 'Mrs_Toller', 'Mrs_Turner',     'Neville_St_Clair', 'Peterson',     'Robert_St_Simon', 'Sherlock_Holmes', 'Stamford',   'Tobias_Gregson', 'Unknown',    'Victor_Hatherley', 'Violet_Hunter', 'Wiggins',       'Wilhelm_Ormstein'];
@@ -268,7 +280,7 @@ const change = () => {
         if(isOpen){
             el.classList.remove("in-screen");
             setTimeout(() => {
-                el.classList.remove("visible")}, 150);
+                el.classList.remove("visible")}, 300);
             body.classList.remove("lock-screen");
             isOpen = false;
         }else{
@@ -352,6 +364,4 @@ document.addEventListener('click', function(event) {
             openNav();
         }
     }
-  });
-
- 
+  }); 

@@ -1,4 +1,4 @@
-Pages URL: https://kate-schmidt.github.io/Holmes/
+Pages URL: https://tryingmyhardest.github.io/projectSherlock/
 
          -Team Roles-
 Team Co-Ordinator: Danny Rodgers
