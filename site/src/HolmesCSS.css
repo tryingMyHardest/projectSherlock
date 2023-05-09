@@ -575,7 +575,7 @@ opacity: .7;
 }
 
 .reverse-arrow{
-  transform: scaleX(-1) translateX(-85vw);
+  transform: scaleX(-1) translateX(-50vw);
 }
 
 
