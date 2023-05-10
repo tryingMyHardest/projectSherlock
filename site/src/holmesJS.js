@@ -101,7 +101,7 @@ const handleScroll = () => {
     button.classList.remove("showBtn");
   }
 
-  if(lastScrollY < window.scrollY){
+  if(lastScrollY < window.scrollY && lastScrollY > 0){
     nav.classList.add('hide-nav');
   }else{
     nav.classList.remove('hide-nav');
