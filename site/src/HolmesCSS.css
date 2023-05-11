@@ -203,7 +203,7 @@ nav{
 .item-menu{
   right: -100vw;
   top: 0;
-  position: absolute;
+  position: fixed;
   display: none;
   flex-direction: column;
   background: rgb(37, 37, 37);
@@ -213,6 +213,7 @@ nav{
   padding-right: 5px;
   box-shadow: -5px 0 25px rgba(37,37,37,.7);
   transition: all .5s ease;
+  z-index: 50;
 }
 
 .line{
@@ -284,6 +285,7 @@ nav{
   position: fixed;
   bottom: 25px;
   right: 25px;
+  z-index: 45;
   padding: 10px 10px 5px 10px;
   border-radius: 10%;
   border-style: none;
@@ -293,7 +295,7 @@ nav{
   opacity: 0;
   transform: translateY(100px);
   transition: all .5s ease;
-  z-index: 1000;
+  
 }
 
 .top:hover{
@@ -510,7 +512,8 @@ opacity: .7;
 
 .story-nav{
   left: -100vw;
-  height: 100vh;
+  height: 80vh;
+  top: 0px;
   overflow-y: auto;
   overflow-x: hidden;
   width: 100vw;
@@ -519,9 +522,7 @@ opacity: .7;
   visibility: hidden;
   flex-direction: column;
   justify-content: left;
-  top: 0px;
-  border: #423d39 solid 2px;
-  box-shadow: 5px 0 25px rgba(37,37,37,.7);
+  box-shadow: 0px 5px 25px rgba(37,37,37,.7);
   transition: all .5s ease;
   z-index: 50;
 }
@@ -533,12 +534,6 @@ opacity: .7;
 }
 
 .story-nav::-webkit-scrollbar{
-  display: none;
-}
-.story-nav::-webkit-scrollbar-track{
-  display: none;
-}
-.story-nav::-webkit-scrollbar-thumb{
   display: none;
 }
 
@@ -635,6 +630,7 @@ label{
 }
 
 summary{
+  text-align: center;
   cursor: pointer;
   font-family: Oheavy;
   font-size: 1.5rem;
@@ -718,7 +714,7 @@ details > summary::-webkit-details-marker {
   font-size: 1.5rem;
   letter-spacing: 1px;
   border-style: none;
-  border-radius: none;
+  border-radius: 0;
   padding: 5px 10px 5px 10px;
   margin-top: .25rem;
   margin-bottom: .5rem;
@@ -1155,7 +1151,7 @@ details > summary::-webkit-details-marker {
     opacity: 0;
     transform: translateY(100px);
     transition: all .5s ease;
-    z-index: 1000;
+    z-index: 45;
   }
   
   .top:hover{

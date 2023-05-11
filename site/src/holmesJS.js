@@ -83,6 +83,7 @@ var button = document.querySelector(".top");
 const nav = document.querySelector('nav');
 
 let lastScrollY = window.scrollY;
+let scrollAnchor = window.scrollY;
 
 // Scroll window to top of the page
 const scrollToTop = () => {
@@ -103,7 +104,8 @@ const handleScroll = () => {
 
   if(lastScrollY < window.scrollY && lastScrollY > 0){
     nav.classList.add('hide-nav');
-  }else{
+    scrollAnchor = window.scrollY;
+  }else if(Math.abs(lastScrollY-scrollAnchor) > 30){
     nav.classList.remove('hide-nav');
   }
 
