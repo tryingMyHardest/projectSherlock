@@ -13,27 +13,27 @@
 }
 @font-face {
   font-family: Oheavy;
-  src: url(font/OstrichSans-Heavy.otf);
+  src: url(font/ostrich-sans-black.woff);
 }
 @font-face {
   font-family: Omedium;
-  src: url(font/OstrichSans-Medium.otf);
+  src: url(font/ostrich-sans-regular.woff);
 }
 @font-face {
   font-family: Obold;
-  src: url(font/OstrichSans-Bold.otf);
+  src: url(font/ostrich-sans-bold.woff);
 }
 @font-face {
   font-family: Oreg;
-  src: url(font/OstrichSansRounded-Medium.otf);
+  src: url(font/ostrich-sans-regular.woff);
 }
 @font-face {
   font-family: Oinline;
-  src: url(font/OstrichSansInline-Regular.otf);
+  src: url(font/ostrich-sans-inline-regular.woff);
 }
 @font-face {
   font-family: Obitalic;
-  src: url(font/OstrichSansInline-Italic.otf);
+  src: url(font/ostrich-sans-inline-italic.woff);
 }
 @font-face {
   font-family: MWItalic;
@@ -1456,6 +1456,10 @@ details > summary::-webkit-details-marker {
     position: sticky;
     top: 75px;
     border: #423d39 solid 2px;
+  }
+
+  .nav-back-button{
+    display: none;
   }
   
   .story-nav::-webkit-scrollbar{
