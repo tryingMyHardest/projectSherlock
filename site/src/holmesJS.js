@@ -105,11 +105,15 @@ const handleScroll = () => {
   if(lastScrollY < window.scrollY && lastScrollY > 0){
     nav.classList.add('hide-nav');
     scrollAnchor = window.scrollY;
-  }else if(Math.abs(lastScrollY-scrollAnchor) > 100){
+  }else if(scrollAnchor-lastScrollY > 100){
     nav.classList.remove('hide-nav');
   }
 
   lastScrollY = window.scrollY;
+
+  console.log("last scroll y: ", lastScrollY);
+console.log("window y:", window.scrollY);
+console.log("anchor y: ", scrollAnchor);
 }
 
 var names = ['Alexander_Holder', 'Alice_Rucastle',   'Alice_Turner',     'Arthur_Holder',    'Bradstreet',   'Breckinridge', 'Brigham_Young',    'Catherine Cusack', 'Charles_McCarthy', 'Clotilde_Lothman', 'Cowper',       'Enoch_J_Drebber',  'Ferrier',      'Flora_Millar', 'Francis_Moulton',  'George_Burnwell',  'Grimesby_Roylott', 'Helen_Stoner', 'Henry_Baker',  'Hosmer_Angel', 'Irene_Adler',   'Isa_Whitney',     'Jabez_Wilson', 'James_McCarthy', 'James_Ryder', 'James_Windibank', 'Jefferson_Hope', 'Jephro_Rucastle', 'John_Clay', 'John_Ferrier', 'John_Openshaw', 'John_Rance',    'John_Turner',  'John_Watson',  'Jones',        'Joseph_Smith', 'Joseph_Stangerson', 'Kate_Whitney', 'Lady_St_Simon', 'Lestrade',       'Lucy_Ferrier', 'Mary_Holder',  'Mary_Sutherland',  'Mary_Watson', 'Merryweather', 'Miss_Stoper', 'Mr_Fowler', 'Mrs_Hudson', 'Mrs_Moulton', 'Mrs_Oakshott', 'Mrs_Rucastle', 'Mrs_Sawyer',   'Mrs_St_Clair', 'Mrs_Toller', 'Mrs_Turner',     'Neville_St_Clair', 'Peterson',     'Robert_St_Simon', 'Sherlock_Holmes', 'Stamford',   'Tobias_Gregson', 'Unknown',    'Victor_Hatherley', 'Violet_Hunter', 'Wiggins',       'Wilhelm_Ormstein'];
