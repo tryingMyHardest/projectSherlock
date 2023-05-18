@@ -105,7 +105,7 @@ const handleScroll = () => {
   if(lastScrollY < window.scrollY && lastScrollY > 0){
     nav.classList.add('hide-nav');
     scrollAnchor = window.scrollY;
-  }else if(scrollAnchor-lastScrollY > 100){
+  }else if(scrollAnchor-lastScrollY > 50 || window.scrollY == 0){
     nav.classList.remove('hide-nav');
   }
 
