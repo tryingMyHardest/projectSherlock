@@ -1,4 +1,4 @@
-Pages URL: https://tryingmyhardest.github.io/projectSherlock/
+Pages URL: https://tryingmyhardest.github.io/projectSherlockSite/
 
          -Team Roles-
 Team Co-Ordinator: Danny Rodgers
